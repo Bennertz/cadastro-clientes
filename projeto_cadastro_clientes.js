@@ -85,3 +85,5 @@ var objeto_juridica = new Juridica('Cliente 2', 'Rua DEF 456', '01.234.567/0001-
 console.log("+-----------------------------+");
 console.log("Cliente: "+ objeto_juridica.Nome +"\nEndereço: "+ objeto_juridica.Endereco +"\nCNPJ: "+ objeto_juridica.CNPJ +"\nRazão Social: "+ objeto_juridica.RazaoSocial);
 console.log("+-----------------------------+");
+
+//Teste
