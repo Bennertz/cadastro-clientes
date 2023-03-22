@@ -86,4 +86,4 @@ console.log("+-----------------------------+");
 console.log("Cliente: "+ objeto_juridica.Nome +"\nEndereço: "+ objeto_juridica.Endereco +"\nCNPJ: "+ objeto_juridica.CNPJ +"\nRazão Social: "+ objeto_juridica.RazaoSocial);
 console.log("+-----------------------------+");
 
-//Teste
+//Teste de commit no VS Code
